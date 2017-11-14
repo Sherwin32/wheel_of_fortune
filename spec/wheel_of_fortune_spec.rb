@@ -2,7 +2,7 @@
 # TO RUN YOUR TESTS TYPE: `rspec spec/wheel_of_fortune_spec.rb`
 
 # require "./solution/wheel_of_fortune.rb"   # use this line to see passing tests
-require "./wheel_of_fortune.rb"              # use this line to test your code
+require "./lib/wheel_of_fortune.rb"              # use this line to test your code
 
 ##########################
 #### Wheel of Fortune ####
